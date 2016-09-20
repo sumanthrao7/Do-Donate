@@ -1,0 +1,52 @@
+﻿body {
+}
+
+.header{
+    width:100%;
+    height:15%;
+    margin-left:150px;
+}
+
+.mainBody{
+    width:100%;
+    height:70%;
+}
+
+.footer{
+    width:100%;
+    height:15%;
+}
+
+.navTitle{
+    color:#5A4A42;
+    font-size:18px;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+.ddNavBar{
+    display:inline;
+   position:absolute;
+    margin-top:90px;
+    margin-left:250px;
+}
+.navTitle:hover{
+    text-decoration: none;
+}
+
+.divBox{
+    height:300px;
+    width:300px;
+    display:inline;
+    border:1px solid black;
+}
+
+.boxImage{
+    height:200px;
+    width:auto;
+
+}
+
+.btnClass{
+    margin-left:100px;
+}
